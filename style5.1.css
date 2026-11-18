@@ -51,7 +51,7 @@ gap: 10px;
 
 .main-nav a {
 display: inline-block;
-background-color: var(--blue); /* تم التعديل لاستخدام المتغير */
+background-color: var(--blue);
 color: #ffffff;
 padding: 8px 16px;
 border-radius: 4px;
